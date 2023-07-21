@@ -1,0 +1,11 @@
+html
+
+h1 {color: blueviolet;}
+.my-text {color: blueviolet;}
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: rgb(50, 50, 50);
+    canvas {display: block;}
+}
